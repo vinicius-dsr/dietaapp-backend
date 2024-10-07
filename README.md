@@ -41,3 +41,7 @@ Para executar este projeto, você precisará de:
 
 - Node.js
 - Google Generative AI
+
+## Frontend
+
+O frontend desta API está disponível em [https://github.com/vinicius-dsr/dietaapp-frontend](https://github.com/vinicius-dsr/dietaapp-frontend).
